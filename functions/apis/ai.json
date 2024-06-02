@@ -1,0 +1,14 @@
+[
+    {
+        "apiKey": "http://node2.nooxhosting.cloud:2001/api/chatgpt?pergunta=${1}i&username=Teruya&apikey=YJB77PoV",
+        "enabled": true
+    },
+    {
+        "apiKey": "sua-chave-de-api-2",
+        "enabled": false
+    },
+    {
+        "apiKey": "sua-chave-de-api-3",
+        "enabled": true
+    }
+]
